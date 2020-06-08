@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38787967854",
+    "firebase_url": "https://careful-pillar-230215.firebaseio.com",
+    "project_id": "careful-pillar-230215",
+    "storage_bucket": "careful-pillar-230215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38787967854:android:83c6ee78fe7f8e98366f7f",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38787967854-sp2d99l26phmn5su150v1kr9i2hdj3pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp12",
+            "certificate_hash": "ce4668886651d6eaa15798415c5b695254e07f41"
+          }
+        },
+        {
+          "client_id": "38787967854-rfvtt445ip0kclur0hkt79dc7jkfksub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0EUh6A30_nSZHvZoscBzELZL0QNqZOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38787967854-rfvtt445ip0kclur0hkt79dc7jkfksub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

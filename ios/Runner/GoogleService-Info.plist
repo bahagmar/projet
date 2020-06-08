@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>38787967854-s2pd5bc3sdblopbvmlan35rjrvho74um.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.38787967854-s2pd5bc3sdblopbvmlan35rjrvho74um</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>38787967854-sp2d99l26phmn5su150v1kr9i2hdj3pi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClXWMkkigKONAgFI1yMwT3_KY89dcmsm0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>38787967854</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterapp12</string>
+	<key>PROJECT_ID</key>
+	<string>careful-pillar-230215</string>
+	<key>STORAGE_BUCKET</key>
+	<string>careful-pillar-230215.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:38787967854:ios:38eaf199093ecd9c366f7f</string>
+	<key>DATABASE_URL</key>
+	<string>https://careful-pillar-230215.firebaseio.com</string>
+</dict>
+</plist>
